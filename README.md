@@ -1,2 +1,2 @@
-# Tibber_demo
-just a short demo how to fetch power data from tibber
+# Tibber Demo - Power Consumption
+Just a short demo how to fetch power data from tibber
